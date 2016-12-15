@@ -1,0 +1,35 @@
+h1{
+  text-align: center;
+  font-size: 36px;
+}
+
+.action a{
+  text-decoration: none;
+}
+
+.action img:hover {
+  box-shadow: 4px 4px 4px #aaa;
+}
+
+header{
+  background-color: #16a2df;
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background-color: #222;
+}
+
+p{
+  text-align: right;
+  color: white;
+  font-size: 26px;
+}
+
+footer{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+}
